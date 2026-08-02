@@ -1,0 +1,11 @@
+# Java
+*.class
+
+# Thư mục build
+bin/
+build/
+out/
+target/
+
+# VS Code
+.vscode/
